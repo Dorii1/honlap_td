@@ -1,0 +1,14 @@
+p {
+color: aqua;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table * {
+border: 5px;
+border-color: darkcyan;
+border-style: solid;
+
+}
